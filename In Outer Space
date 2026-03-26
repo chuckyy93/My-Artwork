@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+<head><link href="https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet"></head>
+<style>
+body {
+background: white;
+margin: 0;
+padding: 0;
+}
+.font1{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:25px;
+}
+
+.font2{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:17px;
+}
+
+.font4{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:19.75px;
+}
+
+.font3{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:22.8px;
+}
+
+.font5{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:100%;
+}
+.font6{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:21.3px;
+}
+.font7{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:16.35px;
+}
+.font8{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:19.6px;
+}
+
+.font9{
+color:#FA690B;
+font-family: 'Lobster Two', cursive;
+font-size:18.3px;
+}
+
+
+.hover{
+color:blue;
+}
+.shadow {
+width:75%;
+height:auto;
+
+}
+
+.shadow2 {
+width:50%;
+height:auto;
+
+}
+.shadow3 {
+width:55%;
+height:auto;
+
+}
+.shadow4 {
+width:65%;
+height:auto;
+
+}
+.shadow5 {
+width:90%;
+height:auto;
+
+}
+
+.shadow6 {
+width:45%;
+height:auto;
+
+}
+
+td{
+height: 80%;
+left: 20%;
+right:20%;
+margin: 0% auto;
+
+position: center;
+width: 0px;
+cellpadding: 15%;
+}
+
+
+colgroup{
+cellpadding: 5%;
+}
+thead, tr, table {
+height: 50%;
+left: 80%;
+right:80%;
+margin: 0px auto;
+overflow-y: scroll;
+position: static;
+width: 70%;
+cellpadding: 50%;
+}
+body{
+background-color: white;
+background-attachment: fixed;
+background-size: cover;
+}
+
+img{
+border-style: groove;
+border-width: 25px;
+border-color: silver;
+filter: drop-shadow(32px 32px 32px black);
+}
+
+a{
+color:#FA690B;
+}
+
+{
+font-family: 'Lobster Two', cursive;
+Color: #FA690B;
+Font-size: 250%;
+text-decoration-style: double;
+cellpadding: 25%;
+width: 50%;
+}
+
+thead {
+font-family: 'Lobster Two', cursive;
+Color: #FA690B;
+Font-size: 250%;
+text-decoration-style: double;
+cellpadding: 35%;
+}
+
+p{
+font-family: 'Lobster Two', cursive;
+Color: #FA690B;
+Font-size: 250%;
+text-decoration-style: double;
+}
+
+h1{
+font-family: 'Lobster Two', cursive;
+Color: #FA690B;
+Font-size: 100px;
+text-decoration-style: double;
+}
+h2{
+font-family: 'Lobster Two', cursive;
+Color: #FA690B;
+Font-size: 30px;
+text-decoration-style: double;
+}
+h5 {
+font-family: 'Lobster Two', cursive;
+font-size: 50px;
+color: black;
+}
+h3 {
+font-family: 'Lobster Two', cursive;
+font-size: 85px;
+color: #FA690B;
+}
+}
+
+hr{
+width: 2000px;
+}
+.textbox {
+background-color: lightgrey;
+width: 90%;
+height: 40%;
+border: 5px solid black;
+padding: 5px;
+margin: 5px;
+filter: drop-shadow(40px 20px 20px black);
+}
+
+.textbox3 {
+background-color: lightgrey;
+width: 78%;
+height: 30%;
+border: 5px solid black;
+padding: 0px;
+margin: 0px;
+filter: drop-shadow(40px 20px 20px black);
+}
+
+.textbox2 {
+background-color: lightgrey;
+width: 85%;
+height: 35%;
+border: 5px solid black;
+padding: 0px;
+margin: 0px;
+filter: drop-shadow(40px 20px 20px black);
+}
+
+</style>
+<body>
+<p></p>
+<h1><u><center>Chuck's Gallery</center></u></h1>
+<hr size="3px" >
+<center><strong><p>A little peek into my life.
+<br>Here are some of my best pieces of artwork I've done throughout my journey.</p></strong></center>
+<table>
+
+<tbody>
+<colgroup>
+<tr>
+<thead>
+<th><u>Unbothered</u></th>
+<th><u>Kobe Bryant</u></th>
+</thead>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center><img class="shadow" src="https://lh3.googleusercontent.com/WTlPQjxaEHi_56ig5IN5WYpbYHw6nzt3RBR32Gwj43_ZqqQyS7fkwstyi5Ywd2WgQr2Dr35eRnIPUPcwk4TEtHKhMyhV7xMsWFrTT-MajZgUqwi31j6QcWbGveMxpZctpJj93v0R6Q=w2400" height="600" Width="558"></center>
+</td>
+<td>
+<center><img class="shadow4" src="https://lh3.googleusercontent.com/VFpcNC3IPGbRorwfPYN-WnGTuhja8gEgIgy_DIDYVzVZPLnXDdNnc-jLXevAjVtVQmNRc_gdnV9rqaoW9p0m37-cVDMRmqmSmpXnwj0pWkKAhIxIhJaeUqcPUEdVpVnZ_ckpjI3y4Q=w2400" height="576" width="768"/></center>
+</td>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center>
+<div class="textbox"><p class="font9"><u>Year: 2010</u><br>A colored pencil drawing of a tiger laying in an empty meadow. The artwork is meant to express a sense of power and strength(represented by the tiger) that keeps me at peace.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font3"><u>Year 2020</u><br>A pencil drawing to pay tribute to the late Kobe Bryant. Done a few weeks after his tragic death.</p></div>
+</center></td>
+</tr>
+</colgroup>
+<colgroup>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<thead>
+<th><u>Self-Portrait</u></th>
+<br><th><u>A True Soldier</u></th>
+</thead>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<tr>
+<td>
+<center><img class="shadow" src="https://lh3.googleusercontent.com/5x8gbqn8kjjBAyAHRJ1MD03AcGPM-0MoolZs23snYNXNMtylMuwy6Q-ckKTCisXVwtn6hn6Q4hu2kJNa3AOmW208KNNeixm7ba9ptXCGcYWxCrFwRr1EbOaKk3UGtlhX8VzSmtpVLw=w2400" height="600" Width="558"></center>
+</td>
+<td>
+<center><img class="shadow4" src="https://lh3.googleusercontent.com/JFRmhaHjmZEWwJrKYxsYpvwwdMjMFOQiuSPsbSgmhlT2W59MwOtan5noY3WMVUIl2kSFpXRO9q7TY9MRLU2apqBeB5IBbcrWZgThn60MYR4EQH1PPHXafwpEARUkfdLLG4AlHMLXzg=w2400" height="576" width="768"/></center>
+</td>
+
+<tr>
+<td><center>
+<div class="textbox"><p class="font1"><u>Year:2013</u><br>Photo-realicstic drawing of me using the grid method I learned in college.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font1"><u>Year:2010</u><br>Charcoal drawing of a tired soldier holding his flag after just fighting a long, grueling war.</p></div>
+</center></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+</colgroup>
+<colgroup>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<thead>
+<th><u>Afro Samurai</u></th>
+<th><u>Alpha Wolf</u></th>
+</thead>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center><img class="shadow" src="https://lh3.googleusercontent.com/PNuDulKorZyHQSr8DiIVtP0eiPTyhbwYfOeZLIGTlGEcNMhwtU6bvMVueowCph2asxa4ky_1ZU1oNMC3LTXyUl7Hd4nEAz6ULI_HOMbUwp3C6Q1P6sEnl40FmHaE162w-H9v1atxyQ=w2400"></center></td>
+<td><center><a href="https://www.ebay.com/itm/Alpha-Wolf-Hoodie-/403249941538?mkcid=16&mkevt=1&_trksid=p2349624.m46890.l49286&mkrid=711-127632-2357-0"><img class="shadow" src="https://lh3.googleusercontent.com/loNMx3l41WQdSLBMt37zpWwECqD9r_c5H63WY8DvI5cxJ0Uufj44PaWRP6UfhAwPSoCQAprBgDQ4L6KJYjInCdsgioGpoDFj1RmlAWe85YF8UrQwFz2hCSK8La2dp2A0zY5169OoUw=w2400"></a></center></td>
+
+<tr>
+<td><center>
+<div class="textbox"><p class="font5"><u>Year:2010<br></u>Drawing done with colored pencil, ink pens, and markers.One of my favorite anime characters protecting two chidren from any harm that could come their way. This was the first drawing I did after I took a 5 year break from art. Which signified that my talent would never go away.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font8"><u>Year:2011<br></u>Scratchboard drawing of an alpha wolf walking through the woods at night. I have also used this artwork to design hoodies. Click on the picture to go to the link.</p></div>
+</center></td>
+</tr>
+
+</colgroup>
+<colgroup>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<thead>
+<th><u>Marilyn Monroe</u></th>
+<th><u>Flawless Beauty</u></th>
+</thead>
+<tr><td><p></p></td></tr>
+<tr>
+
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/Q05589vsqwovHE38VmUHHaZrnlcvKmA431ZCB_DhuIRbfjBXEsEoPG-KJj7mfGM_yhqXo276O2ghbAe8-Wx9Ek0J4O9tg31uNgzgd46_MpqFnPdeCMYvQfgGQPS35DEk8bxkaxlZ-w=w2400"></center></td>
+<td><center><img class="shadow" src="https://lh3.googleusercontent.com/SOAvvzoiOhvNRskr9gAemyTtLjxUwKvJMa-obN3bs7-zq4GkcX0-lZjTZDHyF8B5_BKsu3dEbTaeGHqUvJOOnKwetqe_lU779KheUMYaX-PclVNxgjRXZxI985_lm03UITMyinN1Og=w2400"></center></td>
+</tr>
+<tr>
+<td><center>
+<div class="textbox"><p class="font3"><u>Year:2013</u><br>Portrait drawing (done in pencil) of the famous Marilyn Monroe that was done during my sophmore year in college.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font4"><u>Year:2021</u><br>Digital portrait of a girl that I was trying to get to know at the time. It was drawn about six months after i had bought a drawing tablet off of the internet, so I was very new to the techniques of making digital art. Nonetheless the drawing came out beautiful. </p></div>
+</center></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<thead>
+<th><u>The Three Pioneers</u></th>
+<th><u>Super Saiyan Wide Reciever</u></th>
+</thead>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/NBRVmv-lyueL0hx2cbwI0-bi3tIH05gNNBA2Ufk65FwzeUV6L415htrBb2v-hBK6FyP08X-h8rzvo5mF9dPQOQ5v4NEu_5PizHyxhixfUsX-5ikvic6sPPWvBGVZElsnHMclCaCpcw=w2400"></center></td>
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/02ZnDVxZpzp7ukTolp50qf4HOTsEZVCls0XDgCSkutqRSykNrZ7mWXhMif_fPux311dS1uebE1hLXvbPyy0XWN9bFadSzsgijfpdbj0xFHfp1zIiPxCUCy4b_t72XAWjieYlibfOyg=w2400"></center></td>
+</tr>
+
+<tr>
+<td><center>
+<div class="textbox"><p class="font4"><u>Year:2020</u><br>Pencil drawing of three of the most important people in black history.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font7"><u>Year:2021</u><br>Digital drawing, done on my tablet, of a nice mix of football and DragonBall Z. With the wide receiver scoring a touchdown after turning into a super saiyan.</p></div>
+</center></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<thead>
+<th><u>Michael Jordan</u></th>
+<th><u>Muhammad Ali</u></th>
+</thead>
+</tr>
+
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/bY0so7GguE9Y3tTCh75uqWRgvBcLN8cfF-Ueox-ojMsqsR1AhmRnp75DMjFuKS1k6kLDgzfOHwNnBQBxa7jol3Zt-qJ2qlos2XDUgjJLYgHo58iIeHtzjyT_qOnlYgHYklkXNk9tNg=w2400"></center></td>
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/5FdBOUwTitbS4kOd4NALjNp-OEQy_QtUtJBfxbS0Kz7A1ImiaAztp1NdX_n-ekpPyK80kUf86-9Jzulv9PkF1v7_ufh8V6T3XRUQ6s991b-uyCwk-XJB1hLsXkId49hOg34IdGYZ8A=w2400"></center></td>
+</tr>
+<tr>
+<td><center>
+<div class="textbox"><p class="font4"><u>Year:2017</u><br>Pencil drawing of one of the most legendary basketball <br>players of all time.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font4"><u>Year:2016</u><br>Pencil drawing of one of the most<br>iconic boxers of all time.</p></div>
+</center></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+<thead>
+<th><u>Abstract Statue</u></th>
+<th><u>Xeroxed</u></th>
+</thead>
+<tr>
+<td><p></p></td>
+</tr>
+<tr>
+<td><center><img class="shadow4" src="https://lh3.googleusercontent.com/6QUF82p8OkJJFDPaDFBkEvQpNd5RSz6zFlmlwNhu2gfSynG74e6-Q6-Ft541b44v6dWVxl5HqSz_ns5EX9Lj0upe1S3iGIz4nAsvQ5X2URHaQnzD-fFeun0gWLlKmKhvI-ovj7xemA=w2400"></center></td>
+<td><center><img class="shadow5" src="https://lh3.googleusercontent.com/hicGy9NzTt44LPwYofJd4OU4QUQL2S522sXOAp2XUdWuF0pJyAheGWCv95GvCZ8sS0LPLiw-vWn-R6o5JMI4uHrAnv9WzrFNBX667zPTmWy8AR2pGfKc7JLWF_eGIyQg2IMgK3sPBA=w2400"></center></td>
+</tr>
+<tr>
+<td><center>
+<div class="textbox"><p class="font3"><u>Year:2014</u><br>Pencil drawing combines about trhee or four shapes together as a statue that someone can confortably put in their home.</p></div>
+</center></td>
+<td><center>
+<div class="textbox"><p class="font1"><u>Year:2012</u><br>A charcoal drawing of a xeroxed picture of my face.Done for a class project.</p></div>
+</center></td>
+</tr>
+</colgroup>
+</tbody>
+</table>
+</body>
+</html>
